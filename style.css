@@ -1,0 +1,136 @@
+body {
+    max-width: 65em;
+    margin: auto;
+	height: 65em;
+    padding:20px;
+	font-family: 'Open Sans', sans-serif;
+	color: #ffffff;
+	background-color: #778899;
+}
+
+a {color:#ffffff; }
+a:visited { color:#ffffff; }
+a:active { color: #000; }
+a:hover { color: #000; }
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+}
+nav ul li {
+    display: inline-block;
+    list-style-type: none;
+}
+nav > div > ul > li > a {
+    display: block;
+    text-decoration: none;
+}
+
+
+nav > div > ul > li > a:hover {
+    color: #000 !important;
+}
+.nav-left {
+    float: left;
+}
+
+.nav-left ul li {
+    float: left;
+}
+
+.nav-right ul li {
+    float: right;
+}
+
+.main {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	min-height: 65em;
+}
+#roman {
+    padding: 20px;
+    width: 240px;
+    float:right;
+    }
+    
+.header {
+
+    flex-shrink: 0;
+    text-align: center;
+    margin: 0;
+    padding: 1em;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.div2 {
+    border-right: 1px solid;
+
+	flex-grow: 1;
+	margin: 10px;
+	min-width: 150px;
+	min-height: 150px;
+    text-align: left;
+    padding: 2em;
+
+}
+.div3 {
+	flex-grow: 1;
+	margin: 2.5px;
+	min-width: 150px;
+	min-height: 150px;
+    padding: 1em;
+}
+
+.div4 {
+
+    flex-grow: 1;
+	margin: 2.5px;
+	min-width: 150px;
+	min-height: 150px;
+    padding: 1em;
+}
+.div5 {
+    flex-grow: 1;
+	margin: 2.5px;
+	min-width: 150px;
+	min-height: 150px;
+    padding: 1em;
+	display:inline-block;
+	text-align: center;	
+    padding:2em;
+    text-transform: capitalize;
+	text-decoration: solid;
+}
+#row {
+	margin: auto;
+	width: 100%;	
+	display:inline-block;
+	text-align: center;	
+
+}
+#div345 {
+	flex-grow: 2;
+	min-width: 150px;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	min-height: 100vh;
+}
+.ft ul li{
+    display: inline;
+    padding: 0.5em 0.5em;
+}
+.footer {
+    text-decoration: none;
+	flex-shrink: 0;
+    text-align: center;
+    margin: 0;
+    padding: 1em;
+    list-style-type: none;
+    overflow: hidden;
+}
