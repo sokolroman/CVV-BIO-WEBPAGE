@@ -1,5 +1,6 @@
 ## <p>Personal Webpage 2022</br>
 ## Criteria
+```
 <p>GIVEN I need to sample a potential employee's previous work</br>
 <p>WHEN I load their portfolio</br>
 <p>THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about</br>
@@ -14,5 +15,4 @@
 <p>THEN I am taken to that deployed application</br>
 <p>WHEN I resize the page or view the site on various screens and devices</br>
 <p>THEN I am presented with a responsive layout that adapts to my viewport</br>
-```
 
