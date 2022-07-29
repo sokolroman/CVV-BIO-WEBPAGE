@@ -15,10 +15,17 @@
 <p>WHEN I resize the page or view the site on various screens and devices</br>
 <p>THEN I am presented with a responsive layout that adapts to my viewport</br>
 
+## Screenshot
+
+![Alt text](<img width="1512" alt="Screen Shot 2022-07-29 at 13 39 12" src="https://user-images.githubusercontent.com/72160963/181815022-8675b28c-d72c-488e-b0bb-af707beaa9dd.png">
+?raw=true "Screen Shot RS Webpage")
+
+
 ## Links
 
 ```
 Webpage (https://sokolroman.github.io/CVV-BIO-WEBPAGE/index.html)
 
 Github (https://github.com/sokolroman/CVV-BIO-WEBPAGE)
+
 
