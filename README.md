@@ -1,4 +1,8 @@
 ## <p>Personal Webpage 2022</br>
+<p>Nice to meet you, I'm Roman.</br>
+<p> This is a personal webpage which hosts previous projects and a resume or CVV, I hope you like it!</br>
+
+
 ## Criteria
 <p>GIVEN I need to sample a potential employee's previous work</br>
 <p>WHEN I load their portfolio</br>
