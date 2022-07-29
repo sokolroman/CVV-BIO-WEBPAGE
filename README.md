@@ -15,7 +15,8 @@
 <p>WHEN I resize the page or view the site on various screens and devices</br>
 <p>THEN I am presented with a responsive layout that adapts to my viewport</br>
 ##Link
-
-Webpage (https://sokolroman.github.io/CVV-BIO-WEBPAGE/index.html)
-Github (https://github.com/sokolroman/CVV-BIO-WEBPAGE)
 ```
+Webpage (https://sokolroman.github.io/CVV-BIO-WEBPAGE/index.html)
+
+Github (https://github.com/sokolroman/CVV-BIO-WEBPAGE)
+
