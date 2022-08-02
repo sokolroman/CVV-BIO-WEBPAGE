@@ -113,13 +113,13 @@ section {
 }
 
 .box3 img {
-    width: 75px;
+    width: 200px;
     padding: 2em;
 }
 
 .box3 img:hover {
     opacity: 50%;
-    width: 85px;
+    width: 250px;
 }
 
 footer ul {
