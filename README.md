@@ -27,7 +27,7 @@
 ## Links
 
 ```
-Webpage (https://sokolroman.github.io/CVV-BIO-WEBPAGE/index.html)
+Webpage (https://sokolroman.github.io/CVV-BIO-WEBPAGE/files/index.html)
 
 Github (https://github.com/sokolroman/CVV-BIO-WEBPAGE)
 
